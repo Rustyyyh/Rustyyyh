@@ -35,12 +35,6 @@ My work combines visual quality with strong technical execution, with a focus on
   <img src="https://skillicons.dev/icons?i=blender,github,nextjs,lua,vscode" />
 </p>
 
-### GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rustyyyh&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=7200&v=1" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rustyyyh&layout=compact&theme=github_dark&hide_border=true&cache_seconds=7200&v=1" />
-</p>
-
 ### Focus
 I build immersive and optimized content for FiveM and GTA V, with attention to both visual quality and technical reliability.
 
