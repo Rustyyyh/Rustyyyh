@@ -24,12 +24,12 @@ I currently work with the **3DR Mapping Store**, focusing on professional conten
 My work combines visual quality with strong technical execution, with a focus on **MLO workflow**, **mesh optimization**, **collision setup**, **asset structure**, and **clean resource organization** for professional roleplay projects.
 
 ### Experience
-I have worked on projects and content related to:
-- Impero Roleplay
-- Swiss PvP
-- Razer RP
-- Axel Academy
-- Hazard City
+I have worked on projects and content for:
+- **Impero Roleplay**
+- **SwissPvP**
+- **Razer RP**
+- **Axel Academy**
+- **Hazard City**
 
 ### Specialization
 - 3D Modeling
