@@ -19,7 +19,7 @@
 
 I am a **3D Modeler**, **FiveM / GTA V Technical Expert**, and **Mapper** based in Italy.
 
-I currently work with the **[3DR Mapping Store](https://store.3dr.com/)**, focusing on professional content creation, technical workflow, and optimized assets for FiveM and GTA V projects.
+I currently work with the **[3DR Mapping Store](https://3drmapping.shop/)**, focusing on professional content creation, technical workflow, and optimized assets for FiveM and GTA V projects.
 
 My work combines visual quality with strong technical execution, with a focus on **MLO workflow**, **mesh optimization**, **collision setup**, **asset structure**, and **clean resource organization** for professional roleplay projects.
 
