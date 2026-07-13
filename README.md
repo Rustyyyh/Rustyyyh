@@ -32,7 +32,13 @@ My work combines visual quality with strong technical execution, with a focus on
 
 ### Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=blender,github,html,css,js,lua,vscode" />
+  <img src="https://skillicons.dev/icons?i=blender,github,nextjs,lua,vscode" />
+</p>
+
+### GitHub Stats
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rustyyyh&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=7200" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rustyyyh&layout=compact&theme=github_dark&hide_border=true&cache_seconds=7200" />
 </p>
 
 ### Focus
