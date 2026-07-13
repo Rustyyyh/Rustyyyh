@@ -32,7 +32,7 @@ My work combines visual quality with strong technical execution, with a focus on
 
 ### Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=blender,git,github,html,css,js,lua,vscode" />
+  <img src="https://skillicons.dev/icons?i=blender,github,html,css,js,lua,vscode" />
 </p>
 
 ### Focus
